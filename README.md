@@ -3,6 +3,6 @@
 
 Dark design             |  Light design
 :-------------------------:|:-------------------------:
-![](http://webkutil.cz/github/realDark.PNG)  |  ![](http://webkutil.cz/github/realLight.PNG)
+![](http://webkutil.cz/archive/github/realDark.PNG)  |  ![](http://webkutil.cz/archive/github/realLight.PNG)
 
 
